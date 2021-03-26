@@ -18,7 +18,7 @@ title: null
 }
 .outermwp:hover .innermwp {
   transition: 0.9s;
-  transform: rotate(180deg) rotateX(180deg) rotateY(180deg);
+  transform: rotate(360deg);
 }
 </style>
 <a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" style="width: 10%" src="https://avatars.githubusercontent.com/u/80535767" /></a>
