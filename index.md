@@ -22,8 +22,8 @@ img.innermwp {
   transform-style: preserve-3d;
 }
 .outermwp:hover .innermwp {
-  transition: 2.5s;
-  transform: rotate(3650deg);
+  transition: 4s;
+  transform: rotate(-1800deg);
 }
 </style>
 <a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" src="/favicon.ico" /></a>
