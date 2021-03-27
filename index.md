@@ -4,11 +4,12 @@ name: TiqTiq
 title: null
 ---
 <style>
-.outermwp { 
+.outermwp {
   position: absolute;
-  top: 50%;  
-  left: 50%; 
+  top: 50%;
+  left: 50%;
   margin-right: -50%;
+  transform: translate(-50%, -50%);
   display: inline-block;
   background: transparent;
 }
@@ -16,9 +17,13 @@ title: null
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
-.outermwp:hover .innermwp {
-  transition: ease-in-out 5s;
-  transform: rotate(9000deg);
+img.innermwp {
+  max-width: 25vw;
+  max-height: 25vh;
 }
-</style>
-<a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" style="width: 10%" src="https://avatars.githubusercontent.com/u/80535767" /></a>
+.outermwp:hover .innermwp {
+  transition: 2.5s;
+  transform: rotate(3650deg);
+}
+</style></style>
+<a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" src="/favicon.ico" /></a>
