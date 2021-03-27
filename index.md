@@ -25,5 +25,5 @@ img.innermwp {
   transition: 2.5s;
   transform: rotate(3650deg);
 }
-</style></style>
+</style>
 <a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" src="/favicon.ico" /></a>
