@@ -35,4 +35,4 @@ img.innerlync {
   transform: rotate(-1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
 }
 </style>
-<a class="outermwp" href="mailto:tiqtiq@tiqtiq.net"><img class="innermwp" src="/favicon.ico" /></a>
+<a class="outerlync" href="mailto:tiqtiq@tiqtiq.net"><img class="innerlync" src="/favicon.ico" /></a>
